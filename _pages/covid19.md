@@ -8,3 +8,6 @@ permalink: /covid19
 ---
 
 {% include denmark_covid19_vaccination.html %}
+
+
+{% include denmark_covid19_vaccination_bokeh.html %}
